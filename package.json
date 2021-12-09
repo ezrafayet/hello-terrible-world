@@ -1,0 +1,21 @@
+{
+  "name": "hello-terrible-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "home": ".",
+  "scripts": {
+    "start": "node app/hello-terrible-world",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adzaria/hello-terrible-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adzaria/hello-terrible-world/issues"
+  },
+  "homepage": "https://github.com/adzaria/hello-terrible-world#readme"
+}
